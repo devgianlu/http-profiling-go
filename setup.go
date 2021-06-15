@@ -1,4 +1,4 @@
-package http_profile
+package http_profiling
 
 import "github.com/fasthttp/router"
 
