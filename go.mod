@@ -1,4 +1,4 @@
-module http-profiling-go
+module github.com/devgianlu/http-profiling-go
 
 go 1.16
 
